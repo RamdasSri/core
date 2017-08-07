@@ -15,6 +15,7 @@ public class TripleDoubleTest {
 		assertEquals(1,tripleDouble.find(111234555, 3311454));
 	}
 	
+	
 	@Test
 	public void tribleDouble_secondRepeatingNumberMatches() {
 		
